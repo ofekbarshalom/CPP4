@@ -1,4 +1,4 @@
-# Container Project (EX4)
+# Container and Iterators Project (EX4)
 
 A templated container class that supports multiple custom iteration orders over its elements.
 
