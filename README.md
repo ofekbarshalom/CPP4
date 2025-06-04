@@ -27,9 +27,9 @@ A templated container class that supports multiple custom iteration orders over 
 │   ├── IterOrder.hpp
 │   └── IterMiddleOut.hpp
 ├── tests/
-│   └── test.cpp
+    └── test.cpp
+    └── doctest.h
 ├── main.cpp
-├── doctest.h
 ├── Makefile
 └── README.md
 ```
