@@ -1,6 +1,6 @@
 # Container Project (EX4)
 
-A C++20 templated container class that supports multiple custom iteration orders over its elements.
+A templated container class that supports multiple custom iteration orders over its elements.
 
 ## Features
 
