@@ -28,8 +28,8 @@ A templated container class that supports multiple custom iteration orders over 
 │   └── IterMiddleOut.hpp
 │   └── main.cpp
 ├── tests/
-    └── test.cpp
-    └── doctest.h
+|   └── test.cpp
+|   └── doctest.h
 ├── Makefile
 └── README.md
 ```
