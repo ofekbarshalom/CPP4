@@ -38,7 +38,7 @@ A templated container class that supports multiple custom iteration orders over 
 
 ### Build the main program:
 ```bash
-make
+make Main
 ```
 
 ### Run with Valgrind (for memory leak checks):
