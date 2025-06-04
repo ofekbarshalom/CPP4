@@ -26,10 +26,10 @@ A templated container class that supports multiple custom iteration orders over 
 │   ├── IterReverse.hpp
 │   ├── IterOrder.hpp
 │   └── IterMiddleOut.hpp
+│   └── main.cpp
 ├── tests/
     └── test.cpp
     └── doctest.h
-├── main.cpp
 ├── Makefile
 └── README.md
 ```
